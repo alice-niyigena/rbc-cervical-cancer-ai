@@ -106,8 +106,8 @@ const LoginForm: React.FC<Props> = ({ onLogin }) => {
         </div>
   <div className="mt-10 pt-6 border-t border-slate-100 text-center">
           <p className="text-xs text-slate-400 uppercase tracking-tighter">
-           1. Medical Doctor Credentials<br>
-Email: bosco@rbc.gov.rw<br>
+           1. Medical Doctor Credentials</p>
+<p>Email: bosco@rbc.gov.rw</p>
 Password: doctor123<br>
 Access: Can perform AI risk predictions, view their own clinical history, and generate patient reports.<br>
 2. Administrator Credentials<br>
