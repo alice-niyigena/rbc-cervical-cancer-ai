@@ -1,0 +1,6 @@
+
+{
+  "name": "RBC Cervical Cancer Risk Predictor",
+  "description": "An AI-powered early risk prediction system for cervical cancer based on Rwanda Biomedical Centre screening data protocols. Supports doctors with clinical decision-making and admins with system management.",
+  "requestFramePermissions": []
+}
