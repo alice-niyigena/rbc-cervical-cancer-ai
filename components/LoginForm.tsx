@@ -116,7 +116,7 @@ Password: admin123<br>
 Access: Full system access, user management (add/delete doctors), and national-level screening statistics.<br>
 3. Alternative Doctor Credentials<br>
 Email: uwase@rbc.gov.rw<br>
-Password: doctor123
+Password: doctor123<br>
 
           </p>
         </div>
