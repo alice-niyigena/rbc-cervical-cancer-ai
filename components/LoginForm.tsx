@@ -104,6 +104,23 @@ const LoginForm: React.FC<Props> = ({ onLogin }) => {
             All activities are logged per Rwanda Biomedical Centre policy.
           </p>
         </div>
+  <div className="mt-10 pt-6 border-t border-slate-100 text-center">
+          <p className="text-xs text-slate-400 uppercase tracking-tighter">
+           1. Medical Doctor Credentials
+Email: bosco@rbc.gov.rw
+Password: doctor123
+Access: Can perform AI risk predictions, view their own clinical history, and generate patient reports.
+2. Administrator Credentials
+Email: admin@rbc.gov.rw
+Password: admin123
+Access: Full system access, user management (add/delete doctors), and national-level screening statistics.
+3. Alternative Doctor Credentials
+Email: uwase@rbc.gov.rw
+Password: `doctor123
+
+          </p>
+        </div>
+        
       </div>
     </div>
   );
